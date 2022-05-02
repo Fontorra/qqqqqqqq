@@ -1,0 +1,15 @@
+﻿  LinkedListTests.cpp
+C:\Users\Даниил\source\repos\LAB2\LinkedListTests\LinkedListTests.cpp(124,44): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(244): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(250): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(256): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(261): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(244): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(250): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(256): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+C:\Users\Даниил\source\repos\LAB2\LAB2\LinkedList.h(261): warning C4172: возвращение адреса локальной или временной переменной : thisItem
+  LinkedListTests.vcxproj -> C:\Users\Даниил\source\repos\LAB2\Debug\LinkedListTests.dll
